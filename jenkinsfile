@@ -6,5 +6,6 @@ pipeline {
             steps {
                 bat 'npm install'
             }
+        }
     }
 }
